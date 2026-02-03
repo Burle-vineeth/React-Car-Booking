@@ -1,0 +1,109 @@
+/* -------------------
+   LIGHT MODE
+------------------- */
+.theme-light {
+  --bg: #f9fafb;
+  /* main background */
+  --bg-secondary: #f3f4f6;
+  /* secondary background */
+  --card-bg: #ffffff;
+  /* card background */
+
+  --text: #1f2937;
+  /* main text */
+  --text-secondary: #4b5563;
+  /* secondary text */
+
+  --border: #d1d5db;
+  /* border lines */
+
+  --primary: #1d4ed8;
+  /* buttons, highlights */
+  --accent: #14b8a6;
+  /* accent elements like tags, highlights */
+
+  --primary-light: #60a5fa;
+  --primary-dark: #1e40af;
+
+  --disabled: #e5e7eb;
+  --disabled-text: #9ca3af;
+
+  --progress-bg: #e5e7eb;
+
+  --input-bg: rgba(0, 0, 0, 0.03);
+  --error: #ef4444;
+
+  --option-border: #d1d5db;
+
+  --time-input-bg: rgba(0, 0, 0, 0.03);
+  --danger: #b91c1c;
+  --danger-hover: #991b1b;
+
+  --summary-bg: rgba(29, 78, 216, 0.08);
+
+  --shadow: 0 0 15px rgba(29, 78, 216, 0.3);
+
+  --card: #ffffff;
+  --chipBg: #f3f4f6;
+
+  --success: #16a34a;
+  --success-light: #dcfce7;
+
+  --warning: #d97706;
+  --warning-light: #fef9c3;
+}
+
+/* -------------------
+   DARK MODE
+------------------- */
+.theme-dark {
+  --bg: #0f172a;
+  /* main background */
+  --bg-secondary: #1e293b;
+  /* secondary background */
+  --card-bg: #111827;
+  /* card background */
+
+  --text: #e5e7eb;
+  /* main text */
+  --text-secondary: #9ca3af;
+  /* secondary text */
+
+  --border: #374151;
+  /* border lines */
+
+  --primary: #3b82f6;
+  /* buttons, highlights */
+  --accent: #2dd4bf;
+  /* accent elements */
+
+  --primary-light: #60a5fa;
+  --primary-dark: #1e40af;
+
+  --disabled: #4b5563;
+  --disabled-text: #9ca3af;
+
+  --progress-bg: #111827;
+
+  --input-bg: rgba(255, 255, 255, 0.06);
+  --error: #f87171;
+
+  --option-border: #374151;
+
+  --time-input-bg: rgba(255, 255, 255, 0.06);
+  --danger: #dc2626;
+  --danger-hover: #b91c1c;
+
+  --summary-bg: rgba(59, 130, 246, 0.08);
+
+  --shadow: 0 0 15px rgba(59, 130, 246, 0.3);
+
+  --card: #111827;
+  --chipBg: #1e293b;
+
+  --success: #22c55e;
+  --success-light: #166534;
+
+  --warning: #f59e0b;
+  --warning-light: #fef3c7;
+}
