@@ -7,7 +7,7 @@ import "./assets/styles/themes.css";
 function App() {
   return (
     <ThemeProvider>
-      <RouterProvider router={router} />;
+      <RouterProvider router={router} />
     </ThemeProvider>
   );
 }

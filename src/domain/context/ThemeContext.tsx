@@ -1,7 +1,7 @@
 import { createContext, useContext, useState, useEffect } from "react";
 import { LocalStorageKeys } from "../../utils";
 
-enum Theme {
+export enum Theme {
   light = "light",
   dark = "dark",
 }
